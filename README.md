@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+I'm Sanjay B N
+
+I'm currently learning AWS and DevOps in MicroDegree.
 <!--
 **sanjaybn77/sanjaybn77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
